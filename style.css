@@ -68,11 +68,7 @@ nav {
     padding: 0rem 2rem;
 }
 
-@media screen and (max-width: 768px){
-    .menu-container {
-        grid-template-columns: 1fr;
-    }
-}
+
 
 
 
